@@ -1,0 +1,15 @@
+D:\Learn_prog\HW_CWoMB\obj\Debug\net8.0\HW_CWoMB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_prog\HW_CWoMB\obj\Debug\net8.0\HW_CWoMB.AssemblyInfoInputs.cache
+D:\Learn_prog\HW_CWoMB\obj\Debug\net8.0\HW_CWoMB.AssemblyInfo.cs
+D:\Learn_prog\HW_CWoMB\obj\Debug\net8.0\HW_CWoMB.csproj.CoreCompileInputs.cache
+D:\Learn_prog\HW_CWoMB\obj\Debug\net8.0\HW_CWoMB.sourcelink.json
+D:\Learn_prog\HW_CWoMB\bin\Debug\net8.0\HW_CWoMB.exe
+D:\Learn_prog\HW_CWoMB\bin\Debug\net8.0\HW_CWoMB.deps.json
+D:\Learn_prog\HW_CWoMB\bin\Debug\net8.0\HW_CWoMB.runtimeconfig.json
+D:\Learn_prog\HW_CWoMB\bin\Debug\net8.0\HW_CWoMB.dll
+D:\Learn_prog\HW_CWoMB\bin\Debug\net8.0\HW_CWoMB.pdb
+D:\Learn_prog\HW_CWoMB\obj\Debug\net8.0\HW_CWoMB.dll
+D:\Learn_prog\HW_CWoMB\obj\Debug\net8.0\refint\HW_CWoMB.dll
+D:\Learn_prog\HW_CWoMB\obj\Debug\net8.0\HW_CWoMB.pdb
+D:\Learn_prog\HW_CWoMB\obj\Debug\net8.0\HW_CWoMB.genruntimeconfig.cache
+D:\Learn_prog\HW_CWoMB\obj\Debug\net8.0\ref\HW_CWoMB.dll
