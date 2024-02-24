@@ -1,5 +1,10 @@
 ﻿Console.Write("Введите строку из слов разделённых пробелом: ");
 string textInput = Console.ReadLine()!;
+while (textInput.Length == 0)
+{
+    Console.Write("Вы не ввели ни одного знака, введите не пустую строку: ");
+    textInput = Console.ReadLine()!;
+}
 string[] word = textInput.Split(' ');
 string textOut = string.Empty;
 for (int i = 0; i < word.Length; i++)
@@ -22,5 +27,4 @@ for (int j = 0; j < outText.Length - 1; j++)
     }
     finText[j] = outText[j];
 }
-Console.WriteLine(finText.Length);
 Console.WriteLine($"Новая строка: [{string.Join(" ", finText)}]");
