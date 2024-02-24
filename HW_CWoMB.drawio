@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-02-24T22:59:29.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="nR3rkIFPAzf2_kgy_utO" version="23.1.5" type="device">
+<mxfile host="Electron" modified="2024-02-24T23:32:09.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="sE4w9KfF5MuFawvLGy7T" version="23.1.5" type="device">
   <diagram name="Страница — 1" id="cH2YfQKbETEiVlStcZyq">
-    <mxGraphModel dx="811" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="963" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,11 +70,10 @@
         <mxCell id="TQOZhMuwaPvxq6sTzAJ--12" value="string[i] Lenght &amp;lt; 3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="420" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TQOZhMuwaPvxq6sTzAJ--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TQOZhMuwaPvxq6sTzAJ--14" target="TQOZhMuwaPvxq6sTzAJ--4">
+        <mxCell id="TQOZhMuwaPvxq6sTzAJ--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TQOZhMuwaPvxq6sTzAJ--14" target="TQOZhMuwaPvxq6sTzAJ--28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="70" y="590" />
-              <mxPoint x="70" y="355" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -92,6 +91,16 @@
         </mxCell>
         <mxCell id="TQOZhMuwaPvxq6sTzAJ--27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;em style=&quot;box-sizing: border-box; color: rgb(44, 45, 48); font-family: Onest, Roboto, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Задача&lt;/em&gt;:&lt;/font&gt; &lt;font style=&quot;font-size: 14px;&quot;&gt;Написать программу, которая из имеющегося &lt;br&gt;массива строк формирует новый массив из строк, длина &lt;br&gt;которых меньше, либо равна 3 символам.&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="20" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQOZhMuwaPvxq6sTzAJ--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TQOZhMuwaPvxq6sTzAJ--28" target="TQOZhMuwaPvxq6sTzAJ--4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TQOZhMuwaPvxq6sTzAJ--28" value="i = i + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
