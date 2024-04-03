@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW_CWoMB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a9decc9fea41bb569cce59b195c6bb2c0c6cf24")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW_CWoMB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW_CWoMB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
